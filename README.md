@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Ayman</h1>
 <h3 align="center">Software Engineer Student</h3>
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHl0Ym5pM2ZlejFjejRkZWV3ZHdiczdqNTdzZm93cGI5NWc1ZGhucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tT3sww95PSEsRAPJNg/giphy.gif">
+
+Third-year Computer & AI student majoring in Computer Science with a strong focus on problem-solving and technical fundamentals. I have
+built popular data structures from scratch using C++ while continuously enhancing my foundational skills. I develop projects such as a Java
+chat application with a server-client architecture, a network-enabled chess game, a grayscale image filtering tool, and a comprehensive
+management system for a Driver and Vehicle Licensing Department. Currently, I am expanding my expertise in ASP.NET to advance my
+career as a Back-end Developer.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoud-ayman-saleh&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoud-ayman-saleh" /> </p>
 
 - 🌱 I’m currently learning **Back-end (ASP.NET)**
