@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mahmoud-ayman-3a7a71298/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahmoud-ayman-3a7a71298/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mahmoud-ayman-3a7a71298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud-ayman-3a7a71298" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mahmoud__ayman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mahmoud__ayman" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mahmoud_ayman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mahmoud_ayman" height="30" width="40" /></a>
 </p>
@@ -26,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoud-ayman-saleh&show_icons=true&locale=en" alt="mahmoud-ayman-saleh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoud-ayman-saleh&" alt="mahmoud-ayman-saleh" /></p>
-
