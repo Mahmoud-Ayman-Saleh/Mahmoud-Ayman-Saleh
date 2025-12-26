@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Ayman</h1>
 <h3 align="center">Software Engineer Student</h3>
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHl0Ym5pM2ZlejFjejRkZWV3ZHdiczdqNTdzZm93cGI5NWc1ZGhucSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tT3sww95PSEsRAPJNg/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif">
 
-Third-year Computer & AI student majoring in Computer Science with a strong focus on problem-solving and technical fundamentals. I have
-built popular data structures from scratch using C++ while continuously enhancing my foundational skills. I develop projects such as a Java
-chat application with a server-client architecture, a network-enabled chess game, a grayscale image filtering tool, and a comprehensive
-management system for a Driver and Vehicle Licensing Department. Currently, I am expanding my expertise in ASP.NET to advance my
-career as a Back-end Developer.
+Backend-focused Computer Science student with hands-on experience building scalable .NET Core systems and
+solving 400+ algorithmic problems. Skilled in designing performant APIs, implementing real-time features using
+SignalR, and optimizing SQL queries. Passionate about crafting reliable backend systems that deliver smooth,
+production-grade user experiences.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoud-ayman-saleh&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoud-ayman-saleh" /> </p>
 
@@ -16,11 +15,11 @@ career as a Back-end Developer.
 
 - 📫 How to reach me **mahmoud.ayman.fcai@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1soTCUtyyKu9fTpnrNnJSI3KjttfbaWnk/view?usp=sharing](https://drive.google.com/file/d/1soTCUtyyKu9fTpnrNnJSI3KjttfbaWnk/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1LSc7AXiul4Abysz1NkRVCrSVOUIRMQT1/view?usp=sharing](https://drive.google.com/file/d/1LSc7AXiul4Abysz1NkRVCrSVOUIRMQT1/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mahmoud-ayman-3a7a71298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud-ayman-3a7a71298" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mahmoud-ayman-fcai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud-ayman-fcai" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
